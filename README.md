@@ -2,5 +2,5 @@
 
 # Thsi is a new feature(Dropdown)
 
-# Thsi is a new feature(button)
+# This is a new feature(button)
 
